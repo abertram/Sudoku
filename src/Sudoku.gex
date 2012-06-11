@@ -1,0 +1,6 @@
+[General]
+Name=Sudoku
+Project=1
+[Classes]
+Count=1
+Class0="TfrmMain","TForm","unitMain","21","C:\Dokumente und Einstellungen\Alex\Eigene Dateien\FH Wedel\PS2\Programmierpraktikum\Sudoku\trunk\unitMain.pas"
